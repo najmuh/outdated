@@ -2098,6 +2098,11 @@ p.thick {
   width: 33.33%;
   padding: 20px;
 }
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+}
 
 /* Clear floats after image containers */
 .row::after {
